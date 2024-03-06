@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This profile was created for different purposes, my main account is [Lorenzo Ronzani](https://github.com/AvoidMelon)
+
 <!--
 **LoryRonza/LoryRonza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
