@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This profile was created for different purposes, my main account is [Lorenzo Ronzani](https://github.com/AvoidMelon)
+This username is related to my old profile, currently I changed it, so main account is [Lorenzo Ronzani](https://github.com/lorenzoronzani)
 
 <!--
 **LoryRonza/LoryRonza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
